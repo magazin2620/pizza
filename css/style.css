@@ -1,0 +1,13 @@
+body {
+	background-color: #eaeaea;
+	font-family: 'Montserrat', sans-serif;
+}
+.wrapper{
+	padding: 0 15px;
+	max-width: 1180px;
+	margin: 0 auto;
+}
+.nav{
+	display: flex;
+	list-style-type: none;
+}
